@@ -1,6 +1,6 @@
 {
-  "versionCode": 27,
-  "versionName": "1.0.26",
-  "apkUrl": "https://github.com/metroplusone/unipro/releases/download/v1.0.26/UniPro-v1.0.26.apk",
-  "notes": "• Updater popup logo — logo only, no background\n• App text cleaned up — all English, short and to the point"
+  "versionCode": 28,
+  "versionName": "1.0.27",
+  "apkUrl": "https://github.com/metroplusone/unipro/releases/download/v1.0.27/UniPro-v1.0.27.apk",
+  "notes": "• Real downloads — Home now extracts and downloads videos\n• Queue shows real progress, Saved shows real files\n• Downloads continue in the background"
 }
