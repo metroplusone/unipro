@@ -1,6 +1,6 @@
 {
-  "versionCode": 26,
-  "versionName": "1.0.25",
-  "apkUrl": "https://github.com/metroplusone/unipro/releases/download/v1.0.25/UniPro-v1.0.25.apk",
-  "notes": "• Drawer smooth slide — thora drag karo to khud smooth khule, wapas drag to smooth band\n• Dramas ki nayi GUI — poster, episodes, platform icon"
+  "versionCode": 27,
+  "versionName": "1.0.26",
+  "apkUrl": "https://github.com/metroplusone/unipro/releases/download/v1.0.26/UniPro-v1.0.26.apk",
+  "notes": "• Updater popup logo — logo only, no background\n• App text cleaned up — all English, short and to the point"
 }
