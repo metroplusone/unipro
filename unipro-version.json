@@ -1,6 +1,6 @@
 {
-  "versionCode": 25,
-  "versionName": "1.0.24",
-  "apkUrl": "https://github.com/metroplusone/unipro/releases/download/v1.0.24/UniPro-v1.0.24.apk",
-  "notes": "• Queue ki nayi GUI — display, progress bar, platform icon\n• Music me full player — bar par tap se khule\n• App icon ab sirf logo — transparent background"
+  "versionCode": 26,
+  "versionName": "1.0.25",
+  "apkUrl": "https://github.com/metroplusone/unipro/releases/download/v1.0.25/UniPro-v1.0.25.apk",
+  "notes": "• Drawer smooth slide — thora drag karo to khud smooth khule, wapas drag to smooth band\n• Dramas ki nayi GUI — poster, episodes, platform icon"
 }
