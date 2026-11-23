@@ -1,6 +1,6 @@
 {
-  "versionCode": 30,
-  "versionName": "1.0.29",
-  "apkUrl": "https://github.com/metroplusone/unipro/releases/download/v1.0.29/UniPro-v1.0.29.apk",
-  "notes": "• Loading skeleton instead of placeholder — real video appears\n• Quality chips always show 360 / 720 / 1080 / MP3 with loading fill\n• Preview pauses on download — Home clears when download finishes\n• Mini player fullscreen (landscape) — swipe to seek, volume, brightness"
+  "versionCode": 31,
+  "versionName": "1.0.30",
+  "apkUrl": "https://github.com/metroplusone/unipro/releases/download/v1.0.30/UniPro-v1.0.30.apk",
+  "notes": "• Clear button — clears Home in one tap\n• Queue controls — Pause, Delete and Resume on downloads\n• Quality chips always fit — 360 / 720 / 1080 / MP3 with continuous loading fill\n• \"Loading\" label on the skeleton\n• Downloads now show the real quality (e.g. 720P when 1080P is not available)"
 }
