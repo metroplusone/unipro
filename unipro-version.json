@@ -1,6 +1,6 @@
 {
-  "versionCode": 29,
-  "versionName": "1.0.28",
-  "apkUrl": "https://github.com/metroplusone/unipro/releases/download/v1.0.28/UniPro-v1.0.28.apk",
-  "notes": "• Home preview now plays video — tap Play, seek to check\n• Quality 360 / 720 / 1080 / MP3 — downloads in the selected form\n• Saved shows real thumbnails — tap to open the mini player"
+  "versionCode": 30,
+  "versionName": "1.0.29",
+  "apkUrl": "https://github.com/metroplusone/unipro/releases/download/v1.0.29/UniPro-v1.0.29.apk",
+  "notes": "• Loading skeleton instead of placeholder — real video appears\n• Quality chips always show 360 / 720 / 1080 / MP3 with loading fill\n• Preview pauses on download — Home clears when download finishes\n• Mini player fullscreen (landscape) — swipe to seek, volume, brightness"
 }
