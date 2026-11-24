@@ -1,6 +1,6 @@
 {
-  "versionCode": 32,
-  "versionName": "1.0.31",
-  "apkUrl": "https://github.com/metroplusone/unipro/releases/download/v1.0.31/UniPro-v1.0.31.apk",
-  "notes": "• Download complete no longer clears Home — your link and preview stay; use Clear to reset\n• Faster YouTube search and faster downloads (parallel download)\n• New: unseen badge on Saved tab and on new saved videos — opens mark them seen\n• New: tap the video to see a big play/pause icon in the center\n• New: fullscreen ratio Fit / 4:3 / 16:9 with black sides\n• New: pinch to zoom in fullscreen\n• New: player lock button — locks all touches; tap the video to show it again"
+  "versionCode": 33,
+  "versionName": "1.0.32",
+  "apkUrl": "https://github.com/metroplusone/unipro/releases/download/v1.0.32/UniPro-v1.0.32.apk",
+  "notes": "• Share a video from YouTube, TikTok, Instagram, Facebook or Pinterest and UniPro now appears in the share sheet\n• Pick a quality (360p / 720p / 1080p / MP3) in the popup and tap Download — it goes straight to your Queue\n• Downloads finish in Saved, as before"
 }
