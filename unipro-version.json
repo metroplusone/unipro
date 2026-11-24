@@ -1,6 +1,6 @@
 {
-  "versionCode": 33,
-  "versionName": "1.0.32",
-  "apkUrl": "https://github.com/metroplusone/unipro/releases/download/v1.0.32/UniPro-v1.0.32.apk",
-  "notes": "• Share a video from YouTube, TikTok, Instagram, Facebook or Pinterest and UniPro now appears in the share sheet\n• Pick a quality (360p / 720p / 1080p / MP3) in the popup and tap Download — it goes straight to your Queue\n• Downloads finish in Saved, as before"
+  "versionCode": 34,
+  "versionName": "1.0.33",
+  "apkUrl": "https://github.com/metroplusone/unipro/releases/download/v1.0.33/UniPro-v1.0.33.apk",
+  "notes": "Fixed a crash when sharing a video from YouTube or TikTok — UniPro now opens its share sheet correctly."
 }
